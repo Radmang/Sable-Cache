@@ -1,6 +1,6 @@
 # Sable Cache
 
-Sable cache, version 63.
+Sable cache, **version 63**.
 
 Updates:
 - Base cache upload
