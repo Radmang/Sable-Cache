@@ -20,6 +20,8 @@ Note regarding Intellij: the interface may still show as "Checkout" to switch br
 - DEL = brings up delete options
 - Ctrl+C = brings up copying options
 
+Map, hashes, coordinates: https://explv.github.io
+
 ## Updates
 
 _11/04/2023:_
