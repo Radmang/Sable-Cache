@@ -1,0 +1,48 @@
+Apr 11, 2023 1:52:00 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 11, 2023 1:52:02 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 11, 2023 2:22:04 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 11, 2023 2:22:05 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 11, 2023 2:33:22 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 11, 2023 2:33:23 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 11, 2023 2:38:13 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 11, 2023 2:38:14 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 11, 2023 2:40:22 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 11, 2023 2:40:23 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: Index 174 out of bounds for length 156
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:142)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+java.lang.ArrayIndexOutOfBoundsException: Index 174 out of bounds for length 156
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:142)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Apr 11, 2023 2:54:24 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 11, 2023 2:54:25 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 11, 2023 3:15:26 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 11, 2023 3:15:26 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

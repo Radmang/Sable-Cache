@@ -1,0 +1,327 @@
+Apr 07, 2022 1:13:21 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=49
+java.io.FileNotFoundException: http://xerosio.site.nfoservers.com/xerosv2/v0.049.zip
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1915)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
+	at com.client.CacheDownloader.downloadFile(CacheDownloader.java:132)
+	at com.client.CacheDownloader.update(CacheDownloader.java:116)
+	at com.client.CacheDownloader.downloadCache(CacheDownloader.java:95)
+	at com.client.Client.startUp(Client.java:10686)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Apr 07, 2022 1:14:31 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException: Index 32607 out of bounds for length 2048
+	at com.client.definitions.ItemDefinition.getSprite(ItemDefinition.java:2451)
+	at com.client.Client.drawInterface(Client.java:12086)
+	at com.client.Client.drawInterface(Client.java:11944)
+	at com.client.Client.drawInterface(Client.java:11880)
+	at com.client.Client.draw3dScreen(Client.java:13613)
+	at com.client.Client.method146(Client.java:17752)
+	at com.client.Client.drawGameScreen(Client.java:11630)
+	at com.client.Client.processDrawing(Client.java:13307)
+	at com.client.RSApplet.run(RSApplet.java:311)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+Error on interface child, parentId=64015, childIndex=0, childId=64016
+java.lang.ArrayIndexOutOfBoundsException
+ Click HERE to view drops for Barrelchest - 1076
+Click HERE to view drops for Barrelchest
+ Click HERE to view drops for Lizardman shaman - 657
+Click HERE to view drops for Barrelchest
+Click HERE to view drops for Lizardman shaman
+ Click HERE to view drops for Lizardman shaman - 657
+Click HERE to view drops for Barrelchest
+Click HERE to view drops for Lizardman shaman
+ Click HERE to view drops for Gargoyle - 1919
+Click HERE to view drops for Barrelchest
+Click HERE to view drops for Lizardman shaman
+Click HERE to view drops for Gargoyle
+ Click HERE to view drops for Dusk - 3281

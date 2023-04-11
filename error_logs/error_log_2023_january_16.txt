@@ -1,0 +1,272 @@
+Jan 16, 2023 2:42:35 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 2:42:42 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Jan 16, 2023 2:47:55 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 2:47:58 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Jan 16, 2023 2:48:43 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 2:48:45 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Jan 16, 2023 2:49:51 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 2:49:53 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Jan 16, 2023 3:01:33 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:01:37 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception in thread "Thread-5" java.lang.NoClassDefFoundError: com/client/features/settings/Preferences
+	at com.client.Client.setConfigButtonsAtStartup(Client.java:6677)
+	at com.client.Client.startUp(Client.java:10987)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: com.client.features.settings.Preferences
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 5 more
+Jan 16, 2023 3:03:16 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:04:24 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:04:27 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Jan 16, 2023 3:05:29 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:05:32 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Jan 16, 2023 3:19:58 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:20:06 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: 155
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:140)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 155
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:140)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 155
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:140)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+Jan 16, 2023 3:31:02 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:31:07 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:113)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:113)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:113)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:113)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+Jan 16, 2023 3:38:33 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:38:35 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:115)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:115)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:115)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 105
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:115)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+java.lang.ArrayIndexOutOfBoundsException
+Jan 16, 2023 3:42:36 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:42:39 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: 32647
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 32647
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 32684
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+Jan 16, 2023 3:47:14 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:47:17 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: 32684
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+Jan 16, 2023 3:48:41 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Jan 16, 2023 3:48:44 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+java.lang.ArrayIndexOutOfBoundsException: 172
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 172
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 172
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.ArrayIndexOutOfBoundsException: 172
+	at com.client.ObjectManager.createRegionScene(ObjectManager.java:143)
+	at com.client.Client.method22(Client.java:1539)
+	at com.client.Client.method54(Client.java:4239)
+	at com.client.Client.loadingStages(Client.java:4191)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.lang.Thread.run(Thread.java:748)

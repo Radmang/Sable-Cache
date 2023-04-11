@@ -1,0 +1,28 @@
+Feb 19, 2022 11:01:01 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=49
+java.io.FileNotFoundException: http://xerosio.site.nfoservers.com/xerosv2/v0.049.zip
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1915)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
+	at com.client.CacheDownloader.downloadFile(CacheDownloader.java:132)
+	at com.client.CacheDownloader.update(CacheDownloader.java:116)
+	at com.client.CacheDownloader.downloadCache(CacheDownloader.java:95)
+	at com.client.Client.startUp(Client.java:10686)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Feb 19, 2022 11:01:24 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Feb 19, 2022 11:14:35 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=49
+java.io.FileNotFoundException: http://xerosio.site.nfoservers.com/xerosv2/v0.049.zip
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1915)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
+	at com.client.CacheDownloader.downloadFile(CacheDownloader.java:132)
+	at com.client.CacheDownloader.update(CacheDownloader.java:116)
+	at com.client.CacheDownloader.downloadCache(CacheDownloader.java:95)
+	at com.client.Client.startUp(Client.java:10686)
+	at com.client.RSApplet.run(RSApplet.java:247)
+	at com.client.Client.run(Client.java:6893)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+Feb 19, 2022 11:15:02 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.

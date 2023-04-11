@@ -1,0 +1,28 @@
+Aug 17, 2022 8:59:47 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Aug 17, 2022 8:59:52 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Aug 17, 2022 9:21:36 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Aug 17, 2022 9:21:43 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Aug 17, 2022 9:33:28 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Aug 17, 2022 9:33:32 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Aug 17, 2022 9:44:08 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Aug 17, 2022 9:44:14 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Exception in thread "Thread-2" java.lang.ArrayIndexOutOfBoundsException: Index 121 out of bounds for length 119
+	at com.client.Client.method24(Client.java:1668)
+	at com.client.Client.loadingStages(Client.java:4201)
+	at com.client.Client.mainGameProcessor(Client.java:4583)
+	at com.client.Client.processGameLoop(Client.java:3584)
+	at com.client.RSApplet.run(RSApplet.java:304)
+	at com.client.Client.run(Client.java:6890)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Aug 17, 2022 10:02:45 PM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Aug 17, 2022 10:02:52 PM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
