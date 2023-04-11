@@ -13,6 +13,13 @@ Note: "git checkout" was the way to switch between branches PRIOR to Git 2.23. A
 Note regarding Intellij: the interface may still show as "Checkout" to switch branches. That's ok, just keep in mind it may change to reflect Git's word choice in the future.
 
 
+## RSPSi hotkeys
+Q = rotate
+WASD = movement
+MMB = look around
+DEL = brings up delete options
+Ctrl+C = brings up copying options
+
 ## Updates
 
 _11/04/2023:_
