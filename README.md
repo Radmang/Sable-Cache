@@ -2,7 +2,7 @@
 
 Sable cache, **_version 65_**.
 
-## Quick Guide - Switching Branches
+## Quick Guide - Switching between Branches
 1. Go into directory of choice and open cmd or git bash 
 2. git fetch (gets all updated branches)
 3. git branch -v -a (shows all available branches)
