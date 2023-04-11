@@ -22,7 +22,7 @@ Note regarding Intellij: the interface may still show as "Checkout" to switch br
 
 Map, hashes, coordinates: https://explv.github.io
 
-### In-Game V1
+## Preview Screenshot
 ![image](https://user-images.githubusercontent.com/19223915/231221304-d3f20ae8-6e96-4afb-bc0e-7059fa815afe.png)
 
 
@@ -30,3 +30,12 @@ Map, hashes, coordinates: https://explv.github.io
 
 _11/04/2023:_
 - Base cache upload
+
+_12/04/2023:_
+- Slayer Area
+- GE/Bank Area
+- Gamble Area
+- Shops Area
+- Account Management/Help Area
+- General/Misc. Area
+- ...and more!
