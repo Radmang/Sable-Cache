@@ -2,7 +2,7 @@
 
 Sable cache, **_version 65_**.
 
-##Quick Guide - Switching Branches##
+## Quick Guide - Switching Branches
 1. Go into directory of choice and open cmd or git bash 
 2. git fetch (gets all updated branches)
 3. git branch -v -a (shows all available branches)
@@ -12,7 +12,7 @@ Note: "git checkout" was the way to switch between branches PRIOR to Git 2.23. A
 Note regarding Intellij: the interface may still show as "Checkout" to switch branches. That's ok, just keep in mind it may change to reflect Git's word choice in the future.
 
 
-##Updates##
+## Updates
 
 _11/04/2023:_
 - Base cache upload
