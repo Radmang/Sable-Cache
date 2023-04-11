@@ -14,11 +14,11 @@ Note regarding Intellij: the interface may still show as "Checkout" to switch br
 
 
 ## RSPSi hotkeys
-Q = rotate
-WASD = movement
-MMB = look around
-DEL = brings up delete options
-Ctrl+C = brings up copying options
+- Q = rotate
+- WASD = movement
+- MMB = look around
+- DEL = brings up delete options
+- Ctrl+C = brings up copying options
 
 ## Updates
 
