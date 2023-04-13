@@ -1,0 +1,8 @@
+Apr 13, 2023 9:33:16 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 13, 2023 9:33:17 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
+Apr 13, 2023 9:34:08 AM com.client.CacheDownloader downloadCache
+INFO: Cache version local=65, remote=65
+Apr 13, 2023 9:34:09 AM com.client.definitions.server.ItemDef load
+INFO: Loaded 14006 item definitions.
